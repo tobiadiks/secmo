@@ -1,0 +1,29 @@
+INFO: User login successful from IP 192.168.1.100 at 12:00:01
+INFO: User login successful from IP 192.168.1.101 at 12:05:23
+ERROR: Failed login attempt from IP 203.0.113.42 at 12:10:15
+WARNING: Multiple failed login attempts detected from IP 203.0.113.42 at 12:15:45
+INFO: User logout from IP 192.168.1.100 at 12:20:00
+ERROR: Database connection failed at 12:25:34 from IP 10.0.0.5
+INFO: File upload initiated by user from IP 192.168.1.102 at 12:30:05
+DEBUG: Connection to service 'email' established at 12:30:10
+INFO: User password change request from IP 192.168.1.103 at 12:35:50
+ERROR: File system write failure detected at /var/log/messages at 12:40:12
+INFO: User logout from IP 192.168.1.101 at 12:45:00
+WARNING: Unusual traffic pattern detected from IP 198.51.100.10 at 12:50:25
+ERROR: Unauthorized access attempt from IP 198.51.100.10 at 12:52:00
+INFO: User login from IP 192.168.1.104 at 12:55:12
+ERROR: SSL certificate expired at 12:57:30 for domain secmo.com
+DEBUG: Cache cleared for service 'database' at 13:00:10
+INFO: Scheduled backup started at 13:05:15
+WARNING: High memory usage detected on server 10.0.0.3 at 13:10:50
+INFO: Scheduled backup completed at 13:15:30
+ERROR: Multiple failed login attempts detected from IP 203.0.113.43 at 13:20:00
+INFO: User login successful from IP 192.168.1.105 at 13:25:00
+ERROR: Failed login attempt from IP 203.0.113.44 at 13:30:15
+WARNING: High CPU usage detected on server 10.0.0.4 at 13:35:50
+INFO: User logout from IP 192.168.1.105 at 13:40:00
+DEBUG: User settings updated for user ID 12345 at 13:45:10
+INFO: Scheduled maintenance started at 13:50:00
+ERROR: Backup failed due to insufficient disk space at 13:55:30
+INFO: User login successful from IP 192.168.1.106 at 14:00:01
+WARNING: Unusual login time detected for user from IP 192.168.1.107 at 14:05:23
