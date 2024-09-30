@@ -27,3 +27,18 @@ INFO: Scheduled maintenance started at 13:50:00
 ERROR: Backup failed due to insufficient disk space at 13:55:30
 INFO: User login successful from IP 192.168.1.106 at 14:00:01
 WARNING: Unusual login time detected for user from IP 192.168.1.107 at 14:05:23
+INFO: User login attempt from IP 192.168.1.108 at 14:10:00
+ERROR: Failed login attempt from IP 203.0.113.45 at 14:12:30
+INFO: User password reset request from IP 192.168.1.109 at 14:15:45
+WARNING: Suspicious activity detected from IP 203.0.113.46 at 14:20:10
+INFO: User logout from IP 192.168.1.108 at 14:25:00
+DEBUG: System health check completed at 14:30:00
+INFO: User login successful from IP 192.168.1.110 at 14:35:15
+ERROR: Database query timeout at 14:40:00 from IP 10.0.0.6
+WARNING: High disk usage detected on server 10.0.0.7 at 14:45:30
+INFO: User session expired for IP 192.168.1.111 at 14:50:00
+DEBUG: User preferences updated for user ID 67890 at 14:55:10
+INFO: Scheduled system update started at 15:00:00
+ERROR: System update failed due to network error at 15:05:30
+INFO: User login successful from IP 192.168.1.112 at 15:10:01
+WARNING: Unusual file access detected from IP 192.168.1.113 at 15:15:23
